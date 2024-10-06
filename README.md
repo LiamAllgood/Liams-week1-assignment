@@ -1,1 +1,1 @@
-# Liams-week1-assignment
+# My take on a parody of spaceX and nasa, tried to add humor to the writing on here so i had fun with that, code wise i kept running into issues, so i googled around to try to fix them and i think i fixed most issues that arose 
